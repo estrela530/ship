@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Ship/ShipGame/Content/Texture/backColor.png</File>
-    <File>C:/Ship/ShipGame/Content/Texture/Ending.png</File>
-    <File>C:/Ship/ShipGame/Content/Texture/Title.png</File>
+    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/backColor.png</File>
+    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/Ending.png</File>
+    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/Title.png</File>
   </SourceFiles>
 </SourceFileCollection>

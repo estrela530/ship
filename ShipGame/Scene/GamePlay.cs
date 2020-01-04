@@ -32,7 +32,7 @@ namespace ShipGame.Scene
 
         public void Initialize()
         {
-
+            IsEndFlag = false;
         }
 
         public bool IsEnd()
