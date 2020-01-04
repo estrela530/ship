@@ -47,7 +47,11 @@ namespace ShipGame.Scene
                 //ここから下追加                
                 {"Title",path },
                 {"Ending",path },
-                {"backColor",path }
+                {"backColor",path },
+                {"red",path },
+                {"blue",path },
+                {"green",path },
+                {"orage",path }
                 //ここから上追加
             };
 
