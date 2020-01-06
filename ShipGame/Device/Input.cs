@@ -262,10 +262,6 @@ namespace ShipGame.Device
             return new Vector2(currentGamePads[index].ThumbSticks.Left.X, -currentGamePads[index].ThumbSticks.Left.Y);
         }
 
-
-
-
-
         /// <summary>
         /// キーが押された瞬間か？
         /// </summary>

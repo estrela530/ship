@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Ship/ShipGame/Content/Texture/Ending.png</SourceFile>
-  <SourceTime>2019-09-23T12:12:00.4700257+09:00</SourceTime>
-  <DestFile>C:/Ship/ShipGame/Content/bin/Windows/Texture/Ending.xnb</DestFile>
-  <DestTime>2020-01-04T12:54:45.2613861+09:00</DestTime>
+  <SourceFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/Ending.png</SourceFile>
+  <SourceTime>2020-01-04T13:09:59.9449269+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/bin/Windows/Texture/Ending.xnb</DestFile>
+  <DestTime>2020-01-04T13:10:31.0264135+09:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

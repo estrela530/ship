@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/backColor.png</SourceFile>
-  <SourceTime>2020-01-04T13:09:59.9664159+09:00</SourceTime>
-  <DestFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/bin/Windows/Texture/backColor.xnb</DestFile>
-  <DestTime>2020-01-04T13:10:30.9213261+09:00</DestTime>
+  <SourceFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/green.png</SourceFile>
+  <SourceTime>2019-09-16T21:06:45.9973962+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/bin/Windows/Texture/green.xnb</DestFile>
+  <DestTime>2020-01-04T13:15:40.4403692+09:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
