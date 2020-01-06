@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/Title.png</SourceFile>
-  <SourceTime>2020-01-04T13:09:59.9524515+09:00</SourceTime>
-  <DestFile>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/bin/Windows/Texture/Title.xnb</DestFile>
-  <DestTime>2020-01-04T13:10:31.1178116+09:00</DestTime>
+  <SourceFile>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/Title.png</SourceFile>
+  <SourceTime>2020-01-07T00:11:47.8789464+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/bin/Windows/Texture/Title.xnb</DestFile>
+  <DestTime>2020-01-07T00:14:33.3591997+09:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
