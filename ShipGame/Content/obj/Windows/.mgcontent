@@ -4,12 +4,12 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/backColor.png</File>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/Ending.png</File>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/Title.png</File>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/blue.png</File>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/green.png</File>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/orage.png</File>
-    <File>C:/Users/K018A1815/Desktop/ナナシゲーム/ShipGame/Content/Texture/red.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/backColor.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/Ending.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/Title.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/blue.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/green.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/orage.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/ship/ShipGame/Content/Texture/red.png</File>
   </SourceFiles>
 </SourceFileCollection>

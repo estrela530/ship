@@ -47,7 +47,11 @@
     <Compile Include="Actor\GameObjectManager.cs" />
     <Compile Include="Actor\IGameObjectMediator.cs" />
     <Compile Include="Actor\Player.cs" />
+<<<<<<< HEAD
     <Compile Include="Actor\Whirlpool.cs" />
+=======
+    <Compile Include="Actor\Ship.cs" />
+>>>>>>> addf757ce4b786dd6a2c50c6dfcc2cd5081e923e
     <Compile Include="Def\Screen.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Device\GameDevice.cs" />
