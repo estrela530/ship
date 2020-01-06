@@ -15,7 +15,7 @@ namespace ShipGame.Actor
 
         public Bermuda(Vector2 position, Vector2 origin,GameDevice gameDevice,
             IGameObjectMediator mediator)
-            :base("blue",position ,0,origin,32,32,gameDevice)
+            :base("blue",position ,0,origin,32,1280,gameDevice)
         {
             this.mediator = mediator;
         }
@@ -61,7 +61,12 @@ namespace ShipGame.Actor
         {
             renderer.DrawTexture(
                 name,
-                position);
+                position,
+                null,
+                0,
+                new Vector2(0,0),
+                new Vector2(1,20)
+                );
         }
     }
 }
